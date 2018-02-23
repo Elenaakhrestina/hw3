@@ -1,3 +1,6 @@
 # hw3
 
-https://docs.google.com/forms/d/1jBRa_SOFO57I4B52O5EOh7GXuLe7AxvJeFuEkIqX1dw/edit
+***Свой опрос я решила посвятить традициям и обычаям в разных странах, а создала я его с целью понять то, насколько люди осведомлены о них. В моем опросе приняло участие 29 человек. Результаты оказались не очень-то и радужными, так как только 6 человек смогли набрать больше 4 баллов из 9 возможных. Причем, большее количество людей набрало 2 балла из 9.*** 
+[Ссылка на форму](https://docs.google.com/forms/d/1jBRa_SOFO57I4B52O5EOh7GXuLe7AxvJeFuEkIqX1dw/edit);
+[Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1zZ6uzVQ3XAe-XYbt3F2ikPNK8od7abLLuavezB90H1A/edit#gid=1728172537)
+
